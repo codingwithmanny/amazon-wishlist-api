@@ -2,6 +2,10 @@
 
 This is the API that will scrapes Amazon.com's servers for items and sends the data back as JSON.
 
+This tutorial can be found on Medium:
+
+[Build An Amazon Product Wishlist App Part 1/2 - Backend](https://medium.com/@codingwithmanny/build-an-amazon-product-wishlist-app-part-2-2-frontend-8b57df943efd)
+
 ## Requirements
 
 - NodeJS 12.13.1
@@ -81,3 +85,15 @@ Used By Visual Studio Code to auto format code for spacing and more
 ```bash
 .vscode/settings.json
 ```
+
+---
+
+## Please Follow
+
+**Twitter:** [@codingwithmanny](https://twitter.com/codingwithmanny)
+
+**Instagram:** [@codingwithmanny](https://instagram.com/codingwithmanny)
+
+**Medium** [@codingwithmanny](https://medium.com/@codingwithmanny)
+
+**GitHub** [@codingwithmanny](https://github.com/codingwithmanny)
