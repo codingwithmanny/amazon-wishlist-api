@@ -1,0 +1,19 @@
+{
+  "name": "amazon-wishlist-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/codingwithmanny/amazon-wishlist-api",
+  "author": "@codewithmanny",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "puppeteer": "^2.1.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
